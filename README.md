@@ -12,5 +12,8 @@ https://challenge-amigo-secreto-rosy-iota.vercel.app/
 
 https://github.com/user-attachments/assets/0dd570e8-62a7-4137-9661-754a6242b635
 
-
+## Tecnologias utilizadas:
+- HTML
+- CSS
+**- JavaScript**
 
