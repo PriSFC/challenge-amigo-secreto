@@ -10,5 +10,7 @@ Como utilizar:
 - Visualize a lista do nome dos amigos adicionados
 - Clique no botão "Sortear amigo" para sortear um amigo
 
-https://github.com/user-attachments/assets/dd16fade-876e-4e2a-81fa-4ba892eb769c
+https://github.com/user-attachments/assets/0dd570e8-62a7-4137-9661-754a6242b635
+
+
 
