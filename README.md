@@ -2,7 +2,7 @@
 
 https://challenge-amigo-secreto-rosy-iota.vercel.app/
 
-## COMO UTILIZAR:
+## Como utilizar:
 1. Insira o nome de um amigo no campo
 2. Adicione o nome ao clicar no botão "Adicionar"
 - Caso o campo do nome esteja vazio, o usuário receberá a seguinte mensagem: "Por favor, insira um nome"
