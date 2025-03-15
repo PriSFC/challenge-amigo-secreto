@@ -1,4 +1,6 @@
-# Projeto Amigo Secreto - challenge-amigo-secreto
+# Projeto Amigo Secreto
+
+## challenge-amigo-secreto
 
 https://challenge-amigo-secreto-rosy-iota.vercel.app/
 
